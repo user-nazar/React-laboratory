@@ -1,0 +1,18 @@
+.text-center{
+    margin: 4%;
+}
+
+.d-block{
+    width: 100%;
+}
+.footer{
+    background-color: #000;
+    height: 50%;
+    text-align: center;
+
+}
+
+.year{
+    color: white;
+}
+

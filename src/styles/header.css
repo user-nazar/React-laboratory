@@ -1,0 +1,84 @@
+.navbar {
+    background-color: black;
+}
+
+.Image {
+    display: inline-block;
+    width: 30%;
+    height: 40%;
+}
+
+.first_photo {
+
+    margin-left: 340px;
+    width: 400px;
+    height: 240px;
+}
+
+.second_photo {
+
+    margin-left: 210px;
+    width: 700px;
+    height: 400px;
+
+}
+
+.third_photo {
+    position: absolute;
+    margin-left: 140px;
+    width: 450px;
+    height: 360px;
+}
+
+.fourth_photo {
+
+    top: 5px;
+    margin-left: 5px;
+    width: 130px;
+    height: 60px;
+
+}
+
+.first_text {
+
+    top: 400px;
+    margin-left: 700px;
+    color: brown;
+
+}
+
+.second_text {
+
+    top: 400px;;
+    margin-left: 700px;
+    color: brown;
+
+
+}
+
+.third_text {
+
+    top: 400px;
+    margin-left: 700px;
+    color: brown;
+
+
+}
+
+.fourth_text {
+
+    top: 400px;
+    margin-left: 700px;
+    color: brown;
+
+
+}
+
+.fifth_text {
+
+    top: 400px;
+    margin-left: 700px;
+    color: brown;
+
+
+}
