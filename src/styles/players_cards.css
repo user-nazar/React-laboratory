@@ -1,0 +1,19 @@
+.player-body {
+    background-color: white;
+    color: black;
+}
+.Player{
+    width: 100%;
+    height: 300px;
+
+}
+.player{
+    text-align: center;
+    width: 100%;
+    height: 30%;
+    background-color: white;
+    flex-direction: row;
+}
+.btn{
+    background-color: yellow;
+}

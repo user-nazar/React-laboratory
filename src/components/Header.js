@@ -1,6 +1,5 @@
 import React, {Component} from "react";
 import {Button, Form, FormControl, Container, Navbar, Nav} from "react-bootstrap";
-//import logo from "../images/text.png"
 
 import {BrowserRouter as Router, Switch, Route, Link} from "react-router-dom"
 import "../styles/header.css"
@@ -15,12 +14,7 @@ export default class Header extends Component {
             <>
                 <Navbar collapseOnSelect expand="md"  variant="dark" className="navbar">
                     <Container>
-                        {/*<Navbar.Brand href="/">*/}
-                        {/*    <img src={logo}*/}
-                        {/*         className="Image"*/}
-                        {/*         alt="text"*/}
-                        {/*    />*/}
-                        {/*</Navbar.Brand>*/}
+
                         <Navbar.Toggle aria-controls="responsive-navbar-nav"/>
                         <Navbar.Collapse id="responsive-navbar-nav">
                             <Nav className="mr-auto">
