@@ -1,4 +1,4 @@
-# react_web_lab6
+# web-lab6
 
 # Getting Started with Create React App
 This project was bootstrapped with Create React App.
